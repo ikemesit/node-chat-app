@@ -25,4 +25,4 @@ describe('generateLocationMessage', () => {
         expect(obj.createdAt).toBeA('number');
         expect(obj.url).toEqual(url);
     });
-})
+});
